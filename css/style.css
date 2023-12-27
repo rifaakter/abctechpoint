@@ -1,0 +1,57 @@
+h2 {
+    color: crimson;
+}
+
+#header_titel {
+    color: crimson font-size: 35px;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.class_style {
+    color: chocolate;
+}
+
+.ccn {
+    border: 1px solid crimson;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.continar {
+    width: 90%;
+    margin: auto;
+}
+
+.content {
+    border: 1px solid chocolate;
+    margin: 2rem;
+    padding: 1rem;
+
+
+}
+
+.img--aria {
+    width: 30%;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+}
+
+.img--aria img {
+    width: 90%;
+
+}
+
+.content--aria {
+    width: 60%;
+    float: right;
+    flex-wrap: wrap;
+    padding: 10px;
+    display: inline-block;
+
+
+}
+
+.content--aria h2 {}
